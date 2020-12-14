@@ -1,0 +1,40 @@
+h1
+{
+    color: #009688;
+    font-size: 35px;
+}
+
+p
+{
+    color: #E64A19;
+    font-size: 20px;
+}
+
+h
+{
+    color: #D50000;
+    font-size: 30px;
+}
+
+html
+{
+    background-color: orangered;
+}
+
+body
+{
+    background-color: #FFFF00;
+}
+
+#eagle
+{
+  width:50%;
+}
+
+#india
+{
+  width:50%;
+}
+html {
+  text-align: center;
+}
